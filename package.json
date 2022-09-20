@@ -2,7 +2,7 @@
   "name": "FEWD-Complex-Sc-1",
   "version": "0.0.1",
   "scripts": {
-    "start": "node run.js",
+    "start": "node server.js",
     "test": "nyc --reporter=text mocha",
     "coverage": "nyc --reporter=html mocha"
   },
